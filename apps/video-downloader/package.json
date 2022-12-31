@@ -1,0 +1,16 @@
+{
+  "name": "@video49/video-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tulio Faria",
+  "license": "ISC",
+  "dependencies": {
+    "@video49/vimeo-utils": "*",
+    "dotenv": "^16.0.3"
+  }
+}

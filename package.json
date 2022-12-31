@@ -1,0 +1,9 @@
+{
+  "name": "@learn49/video49",
+  "workspaces": [
+    "main"
+  ],
+  "devDependencies": {
+    "turbo": "^1.6.3"
+  }
+}
